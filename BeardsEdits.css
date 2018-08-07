@@ -77,18 +77,6 @@ input[type="checkbox" i] {
 
 /* Fix Transparency In User Settings */
 
-.minButtonOTB:hover {
-    background-color: #faa61a;
-}
-
-.maxButtonOTB:hover {
-    background-color: #43b581;
-}
-
-.closeButtonOTB:hover {
-    background-color: #f04747;
-}
-
 [class*="theme-"] .ui-standard-sidebar-view .content-region {
     background: rgba(0,0,0, 0.7) !important;
 }
@@ -154,6 +142,18 @@ input[type="checkbox" i] {
 }
 
 /* Fix Main Window Transparency */
+
+.minButtonOTB:hover {
+    background-color: #faa61a;
+}
+
+.maxButtonOTB:hover {
+    background-color: #43b581;
+}
+
+.closeButtonOTB:hover {
+    background-color: #f04747;
+}
 
 .messages-3amgkR.scroller, .content-yTz4x3 > .theme-dark {
     background: rgba(0,0,0, var(--tm-chat-opacity)) !important;
