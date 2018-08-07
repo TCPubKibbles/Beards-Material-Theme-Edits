@@ -224,8 +224,17 @@ input[type="checkbox" i] {
 .header-2o-2hj {
     box-shadow: none;
 }
+
 .unreadBar-17qm9c {
     box-shadow: none;
+}
+
+.chat-3bRxxu .titleWrapper-1l0xT9 {
+    box-shadow: none !important;
+}
+
+.chat-3bRxxu .messagesWrapper-3lZDfY::after {
+    box-shadow: none !important;
 }
 
 .private-channels .scroller-2FKFPG::-webkit-scrollbar, #autocomplete-popout .autocomplete-scroller::-webkit-scrollbar, .modal-3HD5ck .reactors-Blmlhw .scroller-2FKFPG::-webkit-scrollbar, .scroller-2FKFPG.sidebar-region-scroller::-webkit-scrollbar, .private-channels .scroller::-webkit-scrollbar, .channels-Ie2l6A .scroller-2v3d_F::-webkit-scrollbar, .emojiPicker-3m1S-j .scroller-2FKFPG::-webkit-scrollbar {
