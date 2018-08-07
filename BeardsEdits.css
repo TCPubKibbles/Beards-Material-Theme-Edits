@@ -77,6 +77,18 @@ input[type="checkbox" i] {
 
 /* Fix Transparency In User Settings */
 
+.minButtonOTB:hover {
+    background-color: #faa61a;
+}
+
+.maxButtonOTB:hover {
+    background-color: #43b581;
+}
+
+.closeButtonOTB:hover {
+    background-color: #f04747;
+}
+
 [class*="theme-"] .ui-standard-sidebar-view .content-region {
     background: rgba(0,0,0, 0.7) !important;
 }
@@ -186,6 +198,7 @@ input[type="checkbox" i] {
 
 .guildsWrapper-5TJh6A {
     background: rgba(0,0,0, var(--tm-guilds-opacity)) !important;
+	box-shadow: none !important;
 }
 
 .textArea-2Spzkt {
