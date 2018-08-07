@@ -403,3 +403,45 @@ input[type="checkbox" i] {
     box-shadow: 0 0 0 0 transparent;
   }
 }
+
+/* Text Resizer & Font Changer */
+
+.messages-3amgkR .markup-2BOw-j {
+    font-size: .85em !important;
+}
+
+body {
+    font-family: "Agency FB";
+    font-weight: 800;
+    font-style:normal;
+}
+
+.markup-2BOw-j {
+    font-family: "Agency FB";
+    font-weight: 100;
+    font-style:normal;
+ }
+
+.textArea-2Spzkt {
+    font-family: "Agency FB";
+    font-weight: 100;
+    font-style:normal;
+ }
+
+.private-channels .channel .channel-activity strong {
+    font-weight: 800;
+    font-family: "Rockwell Extra Bold";
+    font-style:Normal;
+}
+
+.wrapperCollapsed-3Fbxl6, .wrapperDefault-10Jfvz, .wrapperHovered-28fu1D, .wrapperHoveredCollapsed-1PADEo, .wrapperMuted-3KeA2M, .wrapperUnread-1JPWj3, .channel-members h2, .membersGroup-v9BXpm, .theme-dark .channelName-3stJzi, .theme-dark .groupDM-3qU0Ks .channelName-3stJzi, .theme-dark .groupDMManaged-1GyXtq .channelName-3stJzi, .theme-dark .input-autosize-input, .theme-dark .input-autosize-input:focus, .name-3YKhmS, #bd-settings-sidebar .ui-tab-bar-header, .accountDetails-3k9g4n, .header-2RyJ0Y {
+    font-family: "Algerian";
+    font-weight: 800;
+    font-style: Normal;
+}
+
+.accountDetails-3k9g4n .username {
+    font-family: "Agency FB";
+    font-weight: 800;
+    font-style:normal;
+}
